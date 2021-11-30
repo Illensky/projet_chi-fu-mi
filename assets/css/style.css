@@ -1,0 +1,27 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 25px;
+    background-color: black;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+}
+
+#userChoice {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+img {
+    width: auto;
+    height: 30vh;
+}
+
+.info {
+    padding: 20px;
+    font-weight: bold;
+}
