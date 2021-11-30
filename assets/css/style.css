@@ -16,6 +16,10 @@ body {
     padding: 20px;
 }
 
+.userChoice:hover {
+    cursor: pointer;
+}
+
 img {
     border-radius: 100%;
     border-radius: 100%;
