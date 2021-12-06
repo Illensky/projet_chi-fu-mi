@@ -30,3 +30,10 @@ img {
     padding: 20px;
     font-weight: bold;
 }
+
+@media screen and (max-width: 510px) {
+
+    #userChoice {
+        flex-wrap: wrap;
+    }
+}
